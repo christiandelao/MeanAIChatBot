@@ -1,8 +1,10 @@
-# React + Vite
+# Mean Chatbot powered by ChatGpt 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+By utilizing OpenAi's api key I was able to create a simple chatbot. However the twist is that instead of getting normal replies the bot will have a attitude, enjoy! 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# How to run: 
+* Clone project
+* Create vite-react app `npm create vite@latest`
+* Get api key from OpenAi ChatGpt 3.5 turbo model
+* Paste key into code
+* Run by `npm run dev`
